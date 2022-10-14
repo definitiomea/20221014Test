@@ -1,0 +1,6 @@
+/* 테두리와 관련된 css */
+.mainfield {
+    border: 1px solid gray;
+    border-radius: 20px;
+    padding: 5px;
+}
